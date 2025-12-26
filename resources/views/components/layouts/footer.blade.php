@@ -1,0 +1,56 @@
+<!-- footer -->
+        <footer class="tf-footer style-1">
+            <div class="tf-container">
+                <div class="row">
+                    <div class="offset-xxl-5 col-xxl-7 offset-xl-4 col-xl-7 offset-lg-2 col-lg-8">
+                        <a href="#" class="cta">
+                            <img class="lazyload signature" src="{{ asset('asset/images/signature_dhruv.png') }}" data-src="{{ asset('asset/images/signature_dhruv.png') }}" alt="">
+                            <!-- <div class="text-signature">Jayden</div> -->
+                            {{-- <div class="infiniteslide_wrap cta-infiniteslide style-1">
+                                <div class="infiniteslide">
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="text-display-2">Book A Call</div>
+                                    </div>
+                                    <div class="marquee-child-item">
+                                        <div class="dot"></div>
+                                    </div>
+                                </div>
+                            </div> --}}
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <img src="{{ asset('asset/images/section/img-bg-2.png') }}" alt="" class="map">
+            <div class="box-gradient2"></div>
+        </footer>
+        <!-- /footer -->
